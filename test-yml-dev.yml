@@ -1,0 +1,3 @@
+server: 
+    name: "test-yml"
+    port: 7000
